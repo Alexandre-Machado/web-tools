@@ -1,0 +1,10 @@
+﻿{
+  "AppSettings": {
+    "SiteTitle": "web_tools"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-web_tools-4afb21b7-ecc9-405c-8e61-8a3c9d2f7ec0;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
