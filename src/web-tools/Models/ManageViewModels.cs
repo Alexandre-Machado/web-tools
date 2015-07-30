@@ -7,7 +7,7 @@ using Microsoft.AspNet.Http.Authentication;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Mvc.Rendering;
 
-namespace web_tools.Models
+namespace WebTools.Models
 {
     public class IndexViewModel
     {

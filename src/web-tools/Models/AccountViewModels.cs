@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Mvc.Rendering;
 
-namespace web_tools.Models
+namespace WebTools.Models
 {
     public class ExternalLoginConfirmationViewModel
     {

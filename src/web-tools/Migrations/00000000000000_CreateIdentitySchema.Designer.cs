@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.Data.Entity;
 using Microsoft.Data.Entity.Metadata;
 using Microsoft.Data.Entity.Relational.Migrations.Infrastructure;
-using web_tools.Models;
+using WebTools.Models;
 
-namespace web_tools.Migrations
+namespace WebTools.Migrations
 {
     [ContextType(typeof(ApplicationDbContext))]
     partial class CreateIdentitySchema

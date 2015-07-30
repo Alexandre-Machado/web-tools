@@ -6,7 +6,7 @@ using Microsoft.Data.Entity.Relational.Migrations;
 using Microsoft.Data.Entity.Relational.Migrations.Builders;
 using Microsoft.Data.Entity.Relational.Migrations.Operations;
 
-namespace web_tools.Migrations
+namespace WebTools.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {

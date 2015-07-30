@@ -20,10 +20,10 @@ using Microsoft.Framework.DependencyInjection;
 using Microsoft.Framework.Logging;
 using Microsoft.Framework.Logging.Console;
 using Microsoft.Framework.Runtime;
-using web_tools.Models;
-using web_tools.Services;
+using WebTools.Models;
+using WebTools.Services;
 
-namespace web_tools
+namespace WebTools
 {
     public class Startup
     {

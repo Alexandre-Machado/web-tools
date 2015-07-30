@@ -7,11 +7,11 @@ using System.Security.Principal;
 using Microsoft.AspNet.Authorization;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Mvc;
-using web_tools;
-using web_tools.Models;
-using web_tools.Services;
+using WebTools;
+using WebTools.Models;
+using WebTools.Services;
 
-namespace web_tools.Controllers
+namespace WebTools.Controllers
 {
     [Authorize]
     public class ManageController : Controller

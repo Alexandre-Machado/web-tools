@@ -10,11 +10,11 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Mvc;
 using Microsoft.AspNet.Mvc.Rendering;
 using Microsoft.Data.Entity;
-using web_tools;
-using web_tools.Models;
-using web_tools.Services;
+using WebTools;
+using WebTools.Models;
+using WebTools.Services;
 
-namespace web_tools.Controllers
+namespace WebTools.Controllers
 {
     [Authorize]
     public class AccountController : Controller
